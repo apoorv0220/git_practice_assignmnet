@@ -7,4 +7,4 @@ for(let i = 2; i <= a**0.5; i++){
     }
 }
 
-(flag) ? conseol.log('prime'):console.log('composite')
+(flag) ? console.log('prime'):console.log('composite')
